@@ -1,0 +1,5 @@
+audio:
+  sr: 8000
+
+train:
+  train_duration: 1.0

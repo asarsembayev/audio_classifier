@@ -1,0 +1,6 @@
+mel:
+  n_fft: 1024
+  hop_length: 512
+
+mfcc:
+  n_mfcc: 20
